@@ -2,7 +2,7 @@
 
 <p align="center">
   Ferramentas Usadas:
-  <img widht="5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+  <img width="5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
@@ -70,7 +70,7 @@ git clone https://github.com/HandSync/projeto-extensao.git
 
 Equipe HandSync:
 
-| [<img src="https://avatars.githubusercontent.com/u/160806285?v=4" width=115><br><sub>Guilherme Passini</sub>](https://github.com/GuilhermePassini) |  [<img src="https://avatars.githubusercontent.com/u/160178500?v=4" width=115><br><sub>Vinícius Andrey</sub>](https://github.com/ViniciusAndrey) |  [<img src="https://avatars.githubusercontent.com/u/160897708?v=4" width=115><br><sub>Marcela</sub>](https://github.com/MarcelaGTO) | [<img src="https://avatars.githubusercontent.com/u/160863794?v=4" width=115><br><sub>Victor Braga</sub>](https://github.com/victorbrga) | [<img src="https://avatars.githubusercontent.com/u/160753432?v=4" width=115><br><sub>Kaique Leroy</sub>](https://github.com/Kaique-Leroy) | [<img src="https://avatars.githubusercontent.com/u/160833437?v=4" width=115><br><sub>Renan Pacanaro</sub>](https://github.com/RenanPacanaro) |
+| [<img src="https://avatars.githubusercontent.com/u/160806285?v=4" width=115><br><sub>Guilherme Passini</sub>](https://github.com/GuilhermePassini) |  [<img src="https://avatars.githubusercontent.com/u/160178500?v=4" width=115><br><sub>Vinícius Andrey</sub>](https://github.com/ViniciusAndrey) |  [<img src="https://avatars.githubusercontent.com/u/160897708?v=4" width=115><br><sub>Marcela</sub>](https://github.com/MarcelaGTO) | [<img src="https://avatars.githubusercontent.com/u/160863794?v=4" width=115><br><sub>Victor Braga</sub>](https://github.com/victorbrga) | [<img src="https://avatars.githubusercontent.com/u/160753432?v=4" width=115><br><sub>Kaique Leroy</sub>](https://github.com/Kaique-Leroy) | [<img src="https://avatars.githubusercontent.com/u/160833437?v=4" width=115><br><sub>Renan Pacanaro</sub>](https://github.com/RenanPacanaro)
 | :---: | :---: | :---: 
 
 
