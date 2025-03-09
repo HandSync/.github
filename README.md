@@ -71,7 +71,7 @@ git clone https://github.com/HandSync/projeto-extensao.git
 Equipe HandSync:
 
 | [<img src="https://avatars.githubusercontent.com/u/160806285?v=4" width=115><br><sub>Guilherme Passini</sub>](https://github.com/GuilhermePassini) |  [<img src="https://avatars.githubusercontent.com/u/160178500?v=4" width=115><br><sub>Vinícius Andrey</sub>](https://github.com/ViniciusAndrey) |  [<img src="https://avatars.githubusercontent.com/u/160897708?v=4" width=115><br><sub>Marcela</sub>](https://github.com/MarcelaGTO) | [<img src="https://avatars.githubusercontent.com/u/160863794?v=4" width=115><br><sub>Victor Braga</sub>](https://github.com/victorbrga) | [<img src="https://avatars.githubusercontent.com/u/160753432?v=4" width=115><br><sub>Kaique Leroy</sub>](https://github.com/Kaique-Leroy) | [<img src="https://avatars.githubusercontent.com/u/160833437?v=4" width=115><br><sub>Renan Pacanaro</sub>](https://github.com/RenanPacanaro)
-| :---: | :---: | :---: 
+| :---: | :---: | :---: | :---: | :---: | :---: 
 
 
 Copyright :copyright: 2025 - HandSync
